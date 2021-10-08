@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gZgM7aMLD9zftMW115jnKEsbeQEE1gifrd/aDKh7S8MLlMGVN/tmbmO1hJcInUkH+qXck9aGOX7Dq09V41hGSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Blazzing\\Documents\\dev\\covid\\covid-app\\service\\covid19\\covid19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Blazzing\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Blazzing\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Blazzing\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Blazzing\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Blazzing\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Blazzing\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Blazzing\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
